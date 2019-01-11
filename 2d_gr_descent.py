@@ -5,7 +5,7 @@ Created on Fri Jan 11 14:39:26 2019
 
 @author: igkinis
 
-This programm implements linear regression with gradient descent for optimization without 
+This programm implements 2d linear regression with gradient descent for optimization without 
 any machine learning libraries. Just Numpy.
 
 """
