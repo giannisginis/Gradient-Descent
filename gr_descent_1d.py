@@ -4,6 +4,9 @@
 Created on Thu Jan 10 16:09:05 2019
 
 @author: igkinis
+
+This programm implements 1d linear regression with gradient descent for optimization without 
+any machine learning libraries. Just Numpy.
 """
 import pandas as pd
 import numpy as np
